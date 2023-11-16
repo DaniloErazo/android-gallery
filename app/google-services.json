@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "125985927312",
+    "firebase_url": "https://appsmoviles-5b02b-default-rtdb.firebaseio.com",
+    "project_id": "appsmoviles-5b02b",
+    "storage_bucket": "appsmoviles-5b02b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125985927312:android:8b9c78fa770b645cebe815",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFfDpxHAH7HkpeWYikMshybGwx3z-l5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125985927312:android:67b40fb2123ebda2ebe815",
+        "android_client_info": {
+          "package_name": "com.example.gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFfDpxHAH7HkpeWYikMshybGwx3z-l5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
